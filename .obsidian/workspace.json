@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IcewindDaleRimeOfTheFrostmaiden/Journal/Session 1.md",
+                "file": "BaldursGateDescentIntoAvernus/Baldur's Gate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 1"
+              "title": "Baldur's Gate"
             }
           }
         ]
@@ -189,12 +189,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a850bf5d3a0bb0c9",
+  "active": "45a8276e67277ba0",
   "lastOpenFiles": [
+    "IcewindDaleRimeOfTheFrostmaiden/Journal/Session 1.md",
+    "BaldursGateDescentIntoAvernus/Baldur's Gate.md",
     "IcewindDaleRimeOfTheFrostmaiden/Players/Finlay/Patriar Family.md",
     "BaldursGateDescentIntoAvernus",
     "IcewindDaleRimeOfTheFrostmaiden/Players/Finlay/Finlay Dangerlute.md",
-    "IcewindDaleRimeOfTheFrostmaiden/Journal/Session 1.md",
     "World/NPCs/Viktor Baulbur.md",
     "World/NPCs/Sephek Kaltro.md",
     "World/NPCs/Brennan Venrir.md",
