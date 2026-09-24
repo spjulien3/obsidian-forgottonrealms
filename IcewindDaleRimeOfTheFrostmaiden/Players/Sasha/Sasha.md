@@ -1,0 +1,1 @@
+During a particularly bad blizzard on a trip to meet the Reghed Nomads of Icewind Dale with his family, Sasha was abandoned and taken in by a family of Yetis. He learned to communicate with the yetis and they became a true family to him. His motivations for leaving them to 
