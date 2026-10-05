@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BaldursGateDescentIntoAvernus/Baldur's Gate.md",
+                "file": "IcewindDaleRimeOfTheFrostmaiden/Players/Sasha/The Brother.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Baldur's Gate"
+              "title": "The Brother"
             }
           }
         ]
@@ -189,36 +189,44 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "45a8276e67277ba0",
+  "active": "a850bf5d3a0bb0c9",
   "lastOpenFiles": [
-    "IcewindDaleRimeOfTheFrostmaiden/Journal/Session 1.md",
-    "BaldursGateDescentIntoAvernus/Baldur's Gate.md",
+    "IcewindDaleRimeOfTheFrostmaiden/Journal/Session Prep/Session 7 Prep.md",
+    "IcewindDaleRimeOfTheFrostmaiden/Locations/The Black Cabin.md",
+    "World/Concepts/Mythallar.md",
+    "World/Concepts",
+    "IcewindDaleRimeOfTheFrostmaiden/Story/Everlasting Rime.md",
+    "IcewindDaleRimeOfTheFrostmaiden/Locations/Targos.md",
+    "IcewindDaleRimeOfTheFrostmaiden/NPCs/Macreadus.md",
+    "IcewindDaleRimeOfTheFrostmaiden/Locations",
+    "IcewindDaleRimeOfTheFrostmaiden/NPCs/Garrett Velryn.md",
+    "IcewindDaleRimeOfTheFrostmaiden/Journal/Session Notes/Session 1.md",
+    "IcewindDaleRimeOfTheFrostmaiden/NPCs/Lord Norold Dlusker.md",
+    "IcewindDaleRimeOfTheFrostmaiden/Groups/Dlusker Family.md",
     "IcewindDaleRimeOfTheFrostmaiden/Players/Finlay/Patriar Family.md",
-    "BaldursGateDescentIntoAvernus",
     "IcewindDaleRimeOfTheFrostmaiden/Players/Finlay/Finlay Dangerlute.md",
-    "World/NPCs/Viktor Baulbur.md",
-    "World/NPCs/Sephek Kaltro.md",
-    "World/NPCs/Brennan Venrir.md",
-    "World/NPCs/Naerth Maxildanar.md",
-    "World/NPCs",
-    "World/Groups/Zhentarim.md",
-    "World/Groups/Torg's Company.md",
-    "World/Groups/Arcane Brotherhood.md",
-    "World/Netheril.md",
-    "World/Groups",
-    "World",
+    "BaldursGateDescentIntoAvernus/Players/Bulwark.md",
+    "World/Locations/Baldur's Gate.md",
+    "BaldursGateDescentIntoAvernus/Players",
+    "World/Locations",
+    "World/Locations/Netheril.md",
+    "World/Factions/Arcane Brotherhood.md",
+    "World/Factions/Zhentarim.md",
     "IcewindDaleRimeOfTheFrostmaiden/Story/StoryWeb.canvas",
-    "IcewindDaleRimeOfTheFrostmaiden/Story",
-    "IcewindDaleRimeOfTheFrostmaiden/Players/Shelbi/Shelbi.md",
-    "IcewindDaleRimeOfTheFrostmaiden/Players/Shelbi",
-    "IcewindDaleRimeOfTheFrostmaiden/Players/Seeker/Seeker.md",
-    "IcewindDaleRimeOfTheFrostmaiden/Players/Seeker/Path to Enlightenment.md",
-    "IcewindDaleRimeOfTheFrostmaiden/Players/Seeker",
-    "IcewindDaleRimeOfTheFrostmaiden/Players/Sasha/The Brother.md",
-    "IcewindDaleRimeOfTheFrostmaiden/Players/Sasha/Sasha.md",
-    "IcewindDaleRimeOfTheFrostmaiden/Players/Sasha",
-    "IcewindDaleRimeOfTheFrostmaiden/Players/Kai/Kai.md",
-    "IcewindDaleRimeOfTheFrostmaiden/Players/Kai",
-    "IcewindDaleRimeOfTheFrostmaiden/Players/Finlay"
+    "IcewindDaleRimeOfTheFrostmaiden/NPCs/Sephek Kaltro.md",
+    "IcewindDaleRimeOfTheFrostmaiden/NPCs/Viktor Baulbur.md",
+    "IcewindDaleRimeOfTheFrostmaiden/NPCs/Auril.md",
+    "IcewindDaleRimeOfTheFrostmaiden/Groups/Torg's Company.md",
+    "IcewindDaleRimeOfTheFrostmaiden/NPCs/Naerth Maxildanar.md",
+    "IcewindDaleRimeOfTheFrostmaiden/NPCs/Morimir Ranidar.md",
+    "IcewindDaleRimeOfTheFrostmaiden/NPCs/Brennan Venrir.md",
+    "IcewindDaleRimeOfTheFrostmaiden/Journal/Session Notes",
+    "IcewindDaleRimeOfTheFrostmaiden/Journal/Session Prep",
+    "BaldursGateDescentIntoAvernus/Baldur's Gate.md",
+    "IcewindDaleRimeOfTheFrostmaiden/Groups",
+    "BaldursGateDescentIntoAvernus",
+    "IcewindDaleRimeOfTheFrostmaiden/NPCs",
+    "World/Factions",
+    "IcewindDaleRimeOfTheFrostmaiden/Players/Shelbi/Shelbi.md"
   ]
 }

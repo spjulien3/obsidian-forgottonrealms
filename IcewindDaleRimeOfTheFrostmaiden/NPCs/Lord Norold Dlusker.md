@@ -1,0 +1,1 @@
+A cowardly disgraced Baldurian noble living in the upper city. 

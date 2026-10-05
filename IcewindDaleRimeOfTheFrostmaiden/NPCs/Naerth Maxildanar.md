@@ -1,4 +1,4 @@
-He is the highest ranking zhent member in this particular cell so he is aware of the whole situation outright. Knows the name of the Zhent in charge of that cell names Morimir Ranidar and could find out who specifically ordered his kidnapping and hosting
+He is the highest ranking [[Zhentarim|zhent]] member in this particular cell so he is aware of the whole situation outright. Knows the name of the Zhent in charge of that cell names [[Morimir Ranidar]] and could find out who specifically ordered his kidnapping and hosting
 	- He knows that Finaly was kidnapped and that he is a slaad host. This way of making him disappear and suddenly die in a month would be a surefire way to make sure the Zhents Baldur's Gate had no connection to the murder or the Patriar's trafficking being discovered
 	- Does not agree with how they treated you
 	- Does not work for the same cell of zhents as the one in Baldurs gate

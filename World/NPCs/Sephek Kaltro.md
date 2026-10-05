@@ -1,1 +1,0 @@
-The murderer behind the serial killings of people who have found ways to dodge the lotteries for human sacrifice. Kissed by Auril so they are resistant to cold and use ice magic. Works for [[Torg's Company]] as a body guard
