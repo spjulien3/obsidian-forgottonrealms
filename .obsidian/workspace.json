@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IcewindDaleRimeOfTheFrostmaiden/Players/Sasha/The Brother.md",
+                "file": "IcewindDaleRimeOfTheFrostmaiden/Journal/Session Prep/Session 9 Prep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Brother"
+              "title": "Session 9 Prep"
             }
           }
         ]
@@ -191,7 +191,11 @@
   },
   "active": "a850bf5d3a0bb0c9",
   "lastOpenFiles": [
-    "IcewindDaleRimeOfTheFrostmaiden/Journal/Session Prep/Session 7 Prep.md",
+    "IcewindDaleRimeOfTheFrostmaiden/Journal/Session Prep/Session 8 Prep.md",
+    "IcewindDaleRimeOfTheFrostmaiden/Journal/Session Prep/Session 9 Prep.md",
+    "IcewindDaleRimeOfTheFrostmaiden/Journal/Session Notes/Session 8.md",
+    "IcewindDaleRimeOfTheFrostmaiden/Journal/Session Notes/Session 1.md",
+    "IcewindDaleRimeOfTheFrostmaiden/Players/Sasha/The Brother.md",
     "IcewindDaleRimeOfTheFrostmaiden/Locations/The Black Cabin.md",
     "World/Concepts/Mythallar.md",
     "World/Concepts",
@@ -200,7 +204,6 @@
     "IcewindDaleRimeOfTheFrostmaiden/NPCs/Macreadus.md",
     "IcewindDaleRimeOfTheFrostmaiden/Locations",
     "IcewindDaleRimeOfTheFrostmaiden/NPCs/Garrett Velryn.md",
-    "IcewindDaleRimeOfTheFrostmaiden/Journal/Session Notes/Session 1.md",
     "IcewindDaleRimeOfTheFrostmaiden/NPCs/Lord Norold Dlusker.md",
     "IcewindDaleRimeOfTheFrostmaiden/Groups/Dlusker Family.md",
     "IcewindDaleRimeOfTheFrostmaiden/Players/Finlay/Patriar Family.md",
@@ -219,14 +222,11 @@
     "IcewindDaleRimeOfTheFrostmaiden/Groups/Torg's Company.md",
     "IcewindDaleRimeOfTheFrostmaiden/NPCs/Naerth Maxildanar.md",
     "IcewindDaleRimeOfTheFrostmaiden/NPCs/Morimir Ranidar.md",
-    "IcewindDaleRimeOfTheFrostmaiden/NPCs/Brennan Venrir.md",
     "IcewindDaleRimeOfTheFrostmaiden/Journal/Session Notes",
     "IcewindDaleRimeOfTheFrostmaiden/Journal/Session Prep",
-    "BaldursGateDescentIntoAvernus/Baldur's Gate.md",
     "IcewindDaleRimeOfTheFrostmaiden/Groups",
     "BaldursGateDescentIntoAvernus",
     "IcewindDaleRimeOfTheFrostmaiden/NPCs",
-    "World/Factions",
-    "IcewindDaleRimeOfTheFrostmaiden/Players/Shelbi/Shelbi.md"
+    "World/Factions"
   ]
 }
